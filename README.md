@@ -12,7 +12,7 @@ I ‘ve managed teams up-to 10 developers using Agile principles for both design
 
 With a comprehensive understanding of current technologies, this enable me to deliver what some may consider “the impossible”. Developing and delivering unique solutions with internal teams and/or with third party developers.
 
-#Skills 
+# Skills 
 
 ## Development
 - UX/UI Designer for iOS & Android
